@@ -10,7 +10,7 @@ Training at Holberton School Laval
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Badge](https://img.shields.io/badge/Unreal%20Engine%205-007ACC?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Badge](https://img.shields.io/badge/Unreal%20Engine%205-white?style=for-the-badge&logo=unrealengine&logoColor=black)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuarickGit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
