@@ -2,7 +2,10 @@
 <h3 align="center">🌱 Actuellement en formation chez Holberton School, Laval</h3>
 
 # 💫 À propos de moi:
-Je recherche activement une alternance près de Laval et alentours.<br/>
+🔍 Je recherche activement une alternance près de Laval et alentours.<br/>
+💡 Passionné par le développement web et les nouvelles technologies<br/>
+🎯 En formation Full Stack chez Holberton School<br/>
+📫 Contact : kevinfresne.pro@gmail.com ou via LinkedIn
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-fresne-49a048363/) 
@@ -32,3 +35,5 @@ Je recherche activement une alternance près de Laval et alentours.<br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuarickGit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=GuarickGit&icon=0&color=0)](https://visitcount.itsvg.in)
