@@ -2,7 +2,7 @@
 <h3 align="center">🌱 Actuellement en formation chez Holberton School, Laval</h3>
 
 # 💫 À propos de moi:
-Je recherche activement une alternance près de Laval ou alentours<br/>
+Je recherche activement une alternance près de Laval et alentours.<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-fresne-49a048363/) 
@@ -18,6 +18,8 @@ Je recherche activement une alternance près de Laval ou alentours<br/>
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuarickGit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
