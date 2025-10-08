@@ -1,4 +1,4 @@
-<h1 align="center">👋 Bonjour, je suis Kévin Fresne, développeur Full Stack !</h1>
+<h1 align="center">👋 FRESNE Kévin, développeur Full Stack !</h1>
 <h3 align="center">🌱 Actuellement en formation chez Holberton School, Laval</h3>
 
 # 💫 À propos de moi:
