@@ -1,5 +1,5 @@
 <h1 align="center">👋 FRESNE Kévin, développeur Full Stack !</h1>
-<h3 align="center">🌱 Actuellement en formation chez Holberton School, Laval</h3>
+<h3 align="center">🌱 ACTUELLEMENT EN RECHERCHE ACTIVE D'UNE ALTERNANCE DÉVELOPPEUR WEB, RNCP6</h3>
 
 # 💫 À propos de moi:
 🔍 Je recherche activement une alternance près de Laval et alentours.<br/>
