@@ -1,14 +1,14 @@
 <h1 align="center">👋 FRESNE Kévin, développeur Full Stack !</h1>
-<h3 align="center">🌱 ACTUELLEMENT EN RECHERCHE ACTIVE D'UNE ALTERNANCE DÉVELOPPEUR WEB, RNCP6</h3>
+<h3 align="center">🚀 EN APPRENTISSAGE CHEZ <a href="https://www.may-ia.fr/">MAY-IA</a></h3>
 
 # 💫 À propos de moi:
-🔍 Je recherche activement une alternance près de Laval et alentours.<br/>
+🚀 Actuellement en alternance chez [May-IA](https://www.may-ia.fr/)<br/>
 💡 Passionné par le développement web et les nouvelles technologies<br/>
 🎯 En formation Full Stack chez Holberton School<br/>
 📫 Contact : kevinfresne.pro@gmail.com ou via LinkedIn
 
 ## 🌐 Mes réseaux:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-fresne-49a048363/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-fresne-49a048363/)
 
 # 💻 Tech Stack:
 
@@ -36,4 +36,4 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuarickGit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=GuarickGit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
